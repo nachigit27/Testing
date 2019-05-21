@@ -1,0 +1,8 @@
+D:\Projects\HelloWorld\HelloWorld\DemoTest\bin\Debug\DemoTest.dll
+D:\Projects\HelloWorld\HelloWorld\DemoTest\bin\Debug\DemoTest.pdb
+D:\Projects\HelloWorld\HelloWorld\DemoTest\bin\Debug\HelloWorld.dll
+D:\Projects\HelloWorld\HelloWorld\DemoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\HelloWorld\HelloWorld\DemoTest\bin\Debug\HelloWorld.pdb
+D:\Projects\HelloWorld\HelloWorld\DemoTest\obj\Debug\DemoTest.csprojResolveAssemblyReference.cache
+D:\Projects\HelloWorld\HelloWorld\DemoTest\obj\Debug\DemoTest.dll
+D:\Projects\HelloWorld\HelloWorld\DemoTest\obj\Debug\DemoTest.pdb
